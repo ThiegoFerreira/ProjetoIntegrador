@@ -72,7 +72,8 @@ h2{
     flex-direction: column;
     /* background-color: #007E70; */
     min-width: 360px;
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    gap: 20px;
 }
 .input-group{
     display: flex;
@@ -128,7 +129,7 @@ h2{
     flex-direction: column;
 }
 .bottoms-group #banner{
-    height: 200px;
+    /* height: 200px; */
 }
 #uploadevento{
     background-color:transparent;
