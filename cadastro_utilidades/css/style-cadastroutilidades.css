@@ -197,16 +197,16 @@ h2{
         display: none;   
     }
     .form-box{
-        background-color: #007E70;
+        /* background-color: #007E70; */
     }
     .form-box form{
-        background-color: aqua;
+        /* background-color: aqua; */
         height: 100%;
         gap: 0px;
     }
     .input-group{
         /* height: 80px; */
-        background-color: #FF3877;
+        
     }
     .form-box .uploadimg{
         height: 100%;
@@ -216,6 +216,7 @@ h2{
     }
     .uploadimg .upload{  
         background-color: #FF3877;
+        height: 100%;
         
     }
     
@@ -390,7 +391,5 @@ h2{
     .bottoms-group #banner{
         height: 150px;
     }
-    .add-group{
-        scale: 0.8;
-    }
+    
 }
