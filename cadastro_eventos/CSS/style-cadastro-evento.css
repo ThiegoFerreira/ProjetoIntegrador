@@ -145,8 +145,7 @@ h2{
     /* background-color: coral; */
     display: flex;
     padding-top: 8px;
-    width: 100%;
-    
+    width: 100%;    
 }
 .btn-add{
     display: flex;
